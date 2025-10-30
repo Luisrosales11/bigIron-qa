@@ -16,7 +16,7 @@ This repository contains Playwright end-to-end tests for the registration flow o
 ## Setup
 1. **Clone the repository:**
    ```sh
-   git clone <your-repo-url>
+   git clone https://github.com/Luisrosales11/bigIron-qa
    cd bigIron-qa
    ```
 2. **Install dependencies:**
